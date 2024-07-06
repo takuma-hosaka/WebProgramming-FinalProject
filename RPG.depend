@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1719711836 source:c:\users\thosa\git\rpg\character.cpp
+	"Character.h"
+	<string>
+	<iostream>
+	<unistd.h>
+
+1719361921 c:\users\thosa\git\rpg\character.h
+	<string>
+
+1719710442 source:c:\users\thosa\git\rpg\file.cpp
+	"File.h"
+	<fstream>
+	<iostream>
+	<string>
+
+1719443607 c:\users\thosa\git\rpg\file.h
+	"MainCharacter.h"
+
+1719444235 c:\users\thosa\git\rpg\maincharacter.h
+	<string>
+	"Character.h"
+	"Monster.h"
+	<vector>
+
+1718508663 c:\users\thosa\git\rpg\monster.h
+	<string>
+	"Character.h"
+
+1720249443 source:c:\users\thosa\git\rpg\main.cpp
+	<windows.h>
+	<iostream>
+	"Monster.h"
+	"MainCharacter.h"
+	"Onsen.h"
+	"File.h"
+	<unistd.h>
+
+1719710375 c:\users\thosa\git\rpg\onsen.h
+	"MainCharacter.h"
+
+1719713702 source:c:\users\thosa\git\rpg\maincharacter.cpp
+	"MainCharacter.h"
+	<iostream>
+	<string>
+	"Monster.h"
+	<unistd.h>
+
+1719361884 source:c:\users\thosa\git\rpg\monster.cpp
+	"Monster.h"
+	<iostream>
+	<string>
+
+1719711178 source:c:\users\thosa\git\rpg\onsen.cpp
+	"MainCharacter.h"
+	"Onsen.h"
+	<iostream>
+	<unistd.h>
+

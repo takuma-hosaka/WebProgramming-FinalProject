@@ -32,17 +32,6 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="../Character.cpp" />
-		<Unit filename="../Character.h" />
-		<Unit filename="../File.cpp" />
-		<Unit filename="../File.h" />
-		<Unit filename="../MainCharacter.cpp" />
-		<Unit filename="../MainCharacter.h" />
-		<Unit filename="../Monster.cpp" />
-		<Unit filename="../Monster.h" />
-		<Unit filename="../Onsen.cpp" />
-		<Unit filename="../Onsen.h" />
-		<Unit filename="../Project.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
