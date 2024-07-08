@@ -8,11 +8,11 @@
     string mainName;
     cout << "Enter your name" << endl;
     cin >> mainName;
-    name=mainName;
+    name= mainName;
     hp= 10;
     maxHp = 10;
     power = 5;
-    defense = 3;
+    defense = 2;
     money = 10;
     cout << "Let's start adventure!!" << endl;
   }
@@ -30,7 +30,7 @@
       level++;
       counterToNextLevel = level*5 + counterToNextLevel;
       maxHp += 5;
-      power += 3;
+      power += 2;
       defense += 1;
       sleep(1);
       cout << "**************************************************************** \n  " << endl;

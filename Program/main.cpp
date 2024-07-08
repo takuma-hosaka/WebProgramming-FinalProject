@@ -13,27 +13,27 @@ static File file;
 
 class Slime:public Monster {
 public:
-   Slime():Monster{"Slime", 3, 4, 3, 2, 3}{}
+   Slime():Monster{"Slime", 3, 4, 4, 2, 3}{}
 };
 
 class Chimera:public Monster {
 public:
-   Chimera():Monster{"Chimera", 6, 5, 4, 4, 6}{}
+   Chimera():Monster{"Chimera", 6, 5, 5, 4, 6}{}
 };
 
 class Ghost:public Monster {
 public:
-   Ghost():Monster{"Ghost", 9, 7, 6, 6, 9}{}
+   Ghost():Monster{"Ghost", 9, 7, 7, 6, 9}{}
 };
 
 class KingSlime:public Monster {
 public:
-   KingSlime():Monster{"KingSlime", 20, 10, 8, 8, 12}{}
+   KingSlime():Monster{"KingSlime", 20, 10, 10, 8, 12}{}
 };
 
 class Dragon:public Monster {
 public:
-   Dragon():Monster{"Dragon", 70, 20, 10, 20, 20}{}
+   Dragon():Monster{"Dragon", 70, 20, 20, 20, 20}{}
 };
 
 Monster selectMonster() {
