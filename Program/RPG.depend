@@ -57,3 +57,61 @@
 	<iostream>
 	<unistd.h>
 
+1719711836 source:c:\users\thosa\git\rpg\program\character.cpp
+	"Character.h"
+	<string>
+	<iostream>
+	<unistd.h>
+
+1719361921 c:\users\thosa\git\rpg\program\character.h
+	<string>
+
+1719710442 source:c:\users\thosa\git\rpg\program\file.cpp
+	"File.h"
+	<fstream>
+	<iostream>
+	<string>
+
+1719443607 c:\users\thosa\git\rpg\program\file.h
+	"MainCharacter.h"
+
+1719444235 c:\users\thosa\git\rpg\program\maincharacter.h
+	<string>
+	"Character.h"
+	"Monster.h"
+	<vector>
+
+1718508663 c:\users\thosa\git\rpg\program\monster.h
+	<string>
+	"Character.h"
+
+1720249443 source:c:\users\thosa\git\rpg\program\main.cpp
+	<windows.h>
+	<iostream>
+	"Monster.h"
+	"MainCharacter.h"
+	"Onsen.h"
+	"File.h"
+	<unistd.h>
+
+1719710375 c:\users\thosa\git\rpg\program\onsen.h
+	"MainCharacter.h"
+
+1719713702 source:c:\users\thosa\git\rpg\program\maincharacter.cpp
+	"MainCharacter.h"
+	<iostream>
+	<string>
+	"Monster.h"
+	<unistd.h>
+
+1719361884 source:c:\users\thosa\git\rpg\program\monster.cpp
+	"Monster.h"
+	<iostream>
+	<string>
+
+1719711178 source:c:\users\thosa\git\rpg\program\onsen.cpp
+	"MainCharacter.h"
+	"Onsen.h"
+	<iostream>
+	<unistd.h>
+
